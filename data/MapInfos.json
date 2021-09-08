@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Exterior castelo","order":1,"parentId":0,"scrollX":1390.2857142857142,"scrollY":1006.2857142857142},
+{"id":1,"expanded":false,"name":"Exterior castelo","order":1,"parentId":0,"scrollX":1216.5,"scrollY":679.5},
 {"id":2,"expanded":false,"name":"Hall Principal","order":2,"parentId":0,"scrollX":1390.2857142857142,"scrollY":790.2857142857142},
 {"id":3,"expanded":false,"name":"Hall Principal Destruido","order":3,"parentId":0,"scrollX":1404,"scrollY":790.2857142857142},
-{"id":4,"expanded":false,"name":"Corredor Inicial","order":4,"parentId":0,"scrollX":1404,"scrollY":790.2857142857142}
+{"id":4,"expanded":false,"name":"Corredor Inicial","order":4,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999}
 ]
